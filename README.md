@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-repositorio de modulo numero 2 
+rpueba de como crear un repositorio y pasarlo de gitbush a escritorio
+
